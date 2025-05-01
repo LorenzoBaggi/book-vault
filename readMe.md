@@ -109,7 +109,8 @@
 - *The Solitude of Prime Numbers* – Paolo Giordano  
 - *The Alchemist* – Paulo Coelho  
 - *Harry Potter Series (All Volumes)* – J.K. Rowling  
-
+- *Harry Potter Series (All Volumes)* – J.K. Rowling
+- *The Metamorphosis* – Franz Kafka  
 ---
 
 ## Physics
