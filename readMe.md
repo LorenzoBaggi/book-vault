@@ -97,7 +97,8 @@
 - *The Art of War* – Sun Tzu  
 - *Meditations* – Marcus Aurelius  
 - *The Little Prince* – Antoine de Saint-Exupéry  
-- *Siddhartha* – Hermann Hesse  
+- *Siddhartha* – Hermann Hesse
+- *Steppenwolf* – Hermann Hesse  
 - *Narcissus and Goldmund* – Hermann Hesse  
 - *Thus Spoke Zarathustra* – Friedrich Nietzsche *(still reading)*  
 - *Les Fleurs du Mal* – Charles Baudelaire  
@@ -110,7 +111,8 @@
 - *The Alchemist* – Paulo Coelho  
 - *Harry Potter Series (All Volumes)* – J.K. Rowling  
 - *Harry Potter Series (All Volumes)* – J.K. Rowling
-- *The Metamorphosis* – Franz Kafka  
+- *The Metamorphosis* – Franz Kafka
+- *The Death of Ivan Ilyich* – Leo Tolstoy  
 ---
 
 ## Physics
