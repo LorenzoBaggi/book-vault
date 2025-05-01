@@ -105,7 +105,7 @@
 - *The Catcher in the Rye* – J.D. Salinger
 - *The Red and the Black* – Stendhal *(still reading)*  
 - *Candide: The Optimist* – Voltaire
-- - *The Unbearable Lightness of Being* – Milan Kundera  
+- *The Unbearable Lightness of Being* – Milan Kundera  
 - *The Solitude of Prime Numbers* – Paolo Giordano  
 - *The Alchemist* – Paulo Coelho  
 - *Harry Potter Series (All Volumes)* – J.K. Rowling  
@@ -116,4 +116,6 @@
 
 - *What is Life?* – Erwin Schrödinger  
 - *The Order of Time* – Carlo Rovelli  
-- *Understanding Physics* – Isaac Asimov  
+- *Understanding Physics* – Isaac Asimov
+- *What is Life? The Physical Aspect of the Living Cell* – Erwin Schrödinger  
+- *Physics and Philosophy: The Revolution in Modern Science* – Werner Heisenberg 
