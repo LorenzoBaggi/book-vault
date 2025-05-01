@@ -102,9 +102,13 @@
 - *Thus Spoke Zarathustra* – Friedrich Nietzsche *(still reading)*  
 - *Les Fleurs du Mal* – Charles Baudelaire  
 - *1984* – George Orwell  
-- *The Catcher in the Rye* – J.D. Salinger  
+- *The Catcher in the Rye* – J.D. Salinger
 - *The Red and the Black* – Stendhal *(still reading)*  
-- *Candide: The Optimist* – Voltaire *(still reading)*  
+- *Candide: The Optimist* – Voltaire
+- - *The Unbearable Lightness of Being* – Milan Kundera  
+- *The Solitude of Prime Numbers* – Paolo Giordano  
+- *The Alchemist* – Paulo Coelho  
+- *Harry Potter Series (All Volumes)* – J.K. Rowling  
 
 ---
 
