@@ -85,7 +85,7 @@
 - *Antifragile* – Nassim Taleb  
 - *Skin in the Game* – Nassim Taleb  
 - *Street Freak* – Jared Dillian  
-- *Practical Mathematics for Poker* – (Author not specified)  
+- *Practical Mathematics for Poker* 
 - *Beat the Dealer* – Edward O. Thorp  
 - *A Man for All Markets* – Edward O. Thorp  
 
@@ -114,7 +114,6 @@
 
 ## Physics
 
-- *What is Life?* – Erwin Schrödinger  
 - *The Order of Time* – Carlo Rovelli  
 - *Understanding Physics* – Isaac Asimov
 - *What is Life? The Physical Aspect of the Living Cell* – Erwin Schrödinger  
