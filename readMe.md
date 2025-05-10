@@ -111,6 +111,7 @@
 - *Harry Potter Series* – J.K. Rowling ; <small>*Love provides the strongest protection against evil. Death is not to be feared but understood.*</small>
 - *The Metamorphosis* – Franz Kafka ; <small>*Modern existence can dehumanize individuals. Family relationships transform under pressure. Identity remains despite physical transformation. Society rejects those who cannot contribute economically. Alienation is both psychological and physical.*</small>
 - *The Death of Ivan Ilyich* – Leo Tolstoy ; <small>*Conventional success often masks spiritual emptiness. Facing mortality reveals life's true priorities. Authenticity matters more than social status. Compassion transcends social boundaries. Simple human connection provides meaning in suffering.*</small>
+- *Demian* – Hermann Hesse; <small>Coming of age is a spiritual journey toward selfhood. Good and evil are not opposites but parts of a unified whole. Truth must emerge from within, not be imposed from outside. Demian and Eva serve as archetypal guides toward individuation. True growth requires breaking from conventional morality to follow one’s inner voice.</small>
 
 ## Physics
 
