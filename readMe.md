@@ -1,7 +1,6 @@
+# Personal Reading List
 
-# 📚 Personal Reading List
-
-## 📌 Table of Contents
+## Table of Contents
 
 1. [Derivatives and Options](#derivatives-and-options)
 2. [Quantitative Finance and Financial Engineering](#quantitative-finance-and-financial-engineering)
@@ -65,8 +64,8 @@
 - *Investing Amid Low Expected Returns* – Antti Ilmanen  
 - *Expectations Investing: Reading Stock Prices for Better Returns* – Michael Mauboussin & Alfred Rappaport *(still reading)*  
 - *A Primer for Financial Engineering: Financial Signal Processing and Electronic Trading* – Ali N. Akansu  
-- *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System* – Wesley R. Gray  
-- *Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioural Errors* – Wesley R. Gray  
+- *Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock Selection System* – Wesley R. Gray  
+- *Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment and Eliminating Behavioural Errors* – Wesley R. Gray  
 - *Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage* – Michael Isichenko *(still reading)*  
 
 ---
@@ -98,7 +97,7 @@
 - *The Little Prince* – Antoine de Saint-Exupéry ; <small>*True value lies in the invisible bonds we form. Adults often lose the wisdom of childhood perspective. "What is essential is invisible to the eye." Responsibility toward others gives life meaning. Beauty exists in the ordinary.*</small> ; 
 - *Siddhartha* – Hermann Hesse ; <small>*Wisdom cannot be taught but must be experienced. The path to enlightenment is individual. Unity exists in all things. Self-discovery requires both spiritual seeking and worldly immersion. The river symbolizes life's continuity and change.*</small>
 - *Steppenwolf* – Hermann Hesse ; <small>*Human identity contains multitudes, not just duality. Modern life creates alienation. Humor offers transcendence from suffering. Authentic living requires embracing all aspects of self. Social conventions often conflict with individual truth.*</small>
-- *Demian* – Hermann Hesse; <small>Coming of age is a spiritual journey toward selfhood. Good and evil are not opposites but parts of a unified whole. Truth must emerge from within, not be imposed from outside. Demian and Eva serve as archetypal guides toward individuation. True growth requires breaking from conventional morality to follow one’s inner voice.</small>
+- *Demian* – Hermann Hesse; <small>Coming of age is a spiritual journey toward selfhood. Good and evil are not opposites but parts of a unified whole. Truth must emerge from within, not be imposed from outside. Demian and Eva serve as archetypal guides toward individuation. True growth requires breaking from conventional morality to follow one's inner voice.</small>
 - *Narcissus and Goldmund* – Hermann Hesse ; <small>*Life's journey balances intellect (Narcissus) and sensuality (Goldmund). Art bridges the spiritual and physical worlds. Different paths can lead to fulfillment. The mind-body dichotomy reflects complementary approaches to existence. True friendship transcends differences.*</small>
 - *Thus Spoke Zarathustra* – Friedrich Nietzsche *(still reading)* ; <small>*Humanity must overcome itself to reach greater potential. The "will to power" drives human achievement. God is dead, and we must create new values. The "Übermensch" represents humanity's evolution beyond traditional morality. Life should be affirmed despite suffering.*</small>
 - *Les Fleurs du Mal* – Charles Baudelaire ; <small>*Beauty can be found in the dark and decadent. Modern urban life produces both wonder and alienation. The poet functions as a visionary connecting worlds. Sin and spirituality are intertwined. Sensual experience offers transcendence from mundane existence.*</small>
@@ -112,10 +111,11 @@
 - *Harry Potter Series* – J.K. Rowling ; <small>*Love provides the strongest protection against evil. Death is not to be feared but understood.*</small>
 - *The Metamorphosis* – Franz Kafka ; <small>*Modern existence can dehumanize individuals. Family relationships transform under pressure. Identity remains despite physical transformation. Society rejects those who cannot contribute economically. Alienation is both psychological and physical.*</small>
 - *The Death of Ivan Ilyich* – Leo Tolstoy ; <small>*Conventional success often masks spiritual emptiness. Facing mortality reveals life's true priorities. Authenticity matters more than social status. Compassion transcends social boundaries. Simple human connection provides meaning in suffering.*</small>
+- *White Nights* – Fyodor Dostoevsky ; <small>*Romantic idealism collides with harsh reality. Unrequited love reveals the dreamer's essential loneliness. Fantasy provides both escape and torment. Brief encounters can reshape entire lives. The city's white nights mirror the protagonist's emotional illumination and subsequent darkness.*</small>
 
 ## Physics
 
 - *The Order of Time* – Carlo Rovelli  
 - *Understanding Physics* – Isaac Asimov
 - *What is Life? The Physical Aspect of the Living Cell* – Erwin Schrödinger  
-- *Physics and Philosophy: The Revolution in Modern Science* – Werner Heisenberg 
+- *Physics and Philosophy: The Revolution in Modern Science* – Werner Heisenberg
