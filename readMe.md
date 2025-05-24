@@ -112,6 +112,7 @@
 - *The Metamorphosis* – Franz Kafka ; <small>*Modern existence can dehumanize individuals. Family relationships transform under pressure. Identity remains despite physical transformation. Society rejects those who cannot contribute economically. Alienation is both psychological and physical.*</small>
 - *The Death of Ivan Ilyich* – Leo Tolstoy ; <small>*Conventional success often masks spiritual emptiness. Facing mortality reveals life's true priorities. Authenticity matters more than social status. Compassion transcends social boundaries. Simple human connection provides meaning in suffering.*</small>
 - *White Nights* – Fyodor Dostoevsky ; <small>*Romantic idealism collides with harsh reality. Unrequited love reveals the dreamer's essential loneliness. Fantasy provides both escape and torment. Brief encounters can reshape entire lives. The city's white nights mirror the protagonist's emotional illumination and subsequent darkness.*</small>
+- *The Gambler* – Fyodor Dostoevsky ; <small>*Addiction distorts perception and destroys agency. The protagonist is trapped between desire for status and the compulsions of gambling. Social humiliation and romantic obsession intertwine. The novel critiques European aristocracy, explores psychological dependency, and depicts the volatility of hope and despair. Time, money, and identity fluctuate like bets on a roulette wheel.*</small>
 
 ## Physics
 
