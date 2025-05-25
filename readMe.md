@@ -43,7 +43,9 @@
 - *Quant Job Interview Questions and Answers* – Mark Joshi  
 - *Interest Rate Modelling in the Multi-Curve Framework* – Marc Henrard  
 - *Stochastic Modelling of Electricity and Related Markets* – Fred E. Benth  
-- *Credit Models and the Crisis: A Journey into CDOs, Copulas, Correlations and Dynamic Models* – Damiano Brigo *(still reading)*  
+- *Credit Models and the Crisis: A Journey into CDOs, Copulas, Correlations and Dynamic Models* – Damiano Brigo *(still reading)*
+- *The Elements of Quantitative Investing* - Giuseppe A. Paleologo
+
 
 ---
 
