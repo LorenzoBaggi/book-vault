@@ -103,6 +103,7 @@
 - *Steppenwolf* – Hermann Hesse ; <small>*Human identity contains multitudes, not just duality. Modern life creates alienation. Humor offers transcendence from suffering. Authentic living requires embracing all aspects of self. Social conventions often conflict with individual truth.*</small>
 - *Demian* – Hermann Hesse; <small>Coming of age is a spiritual journey toward selfhood. Good and evil are not opposites but parts of a unified whole. Truth must emerge from within, not be imposed from outside. Demian and Eva serve as archetypal guides toward individuation. True growth requires breaking from conventional morality to follow one's inner voice.</small>
 - *Narcissus and Goldmund* – Hermann Hesse ; <small>*Life's journey balances intellect (Narcissus) and sensuality (Goldmund). Art bridges the spiritual and physical worlds. Different paths can lead to fulfillment. The mind-body dichotomy reflects complementary approaches to existence. True friendship transcends differences.*</small>
+- *On Love* – Hermann Hesse ; <small>Love is both the source of life's greatest joy and deepest suffering. True love requires accepting the beloved's freedom and otherness. Passion and spiritual love often conflict. Love reveals our capacity for both selflessness and selfishness. The heart's wisdom differs from the mind's logic.</small>
 - *Thus Spoke Zarathustra* – Friedrich Nietzsche *(still reading)* ; <small>*Humanity must overcome itself to reach greater potential. The "will to power" drives human achievement. God is dead, and we must create new values. The "Übermensch" represents humanity's evolution beyond traditional morality. Life should be affirmed despite suffering.*</small>
 - *Les Fleurs du Mal* – Charles Baudelaire ; <small>*Beauty can be found in the dark and decadent. Modern urban life produces both wonder and alienation. The poet functions as a visionary connecting worlds. Sin and spirituality are intertwined. Sensual experience offers transcendence from mundane existence.*</small>
 - *1984* – George Orwell ; <small>*Totalitarianism destroys individual identity and truth. Language shapes thought and can limit freedom. Surveillance erodes privacy and autonomy. Love represents rebellion against oppressive systems. History is manipulated by those in power.*</small>
@@ -117,10 +118,13 @@
 - *The Death of Ivan Ilyich* – Leo Tolstoy ; <small>*Conventional success often masks spiritual emptiness. Facing mortality reveals life's true priorities. Authenticity matters more than social status. Compassion transcends social boundaries. Simple human connection provides meaning in suffering.*</small>
 - *White Nights* – Fyodor Dostoevsky ; <small>*Romantic idealism collides with harsh reality. Unrequited love reveals the dreamer's essential loneliness. Fantasy provides both escape and torment. Brief encounters can reshape entire lives. The city's white nights mirror the protagonist's emotional illumination and subsequent darkness.*</small>
 - *The Gambler* – Fyodor Dostoevsky ; <small>*Addiction distorts perception and destroys agency. The protagonist is trapped between desire for status and the compulsions of gambling. Social humiliation and romantic obsession intertwine. The novel critiques European aristocracy, explores psychological dependency, and depicts the volatility of hope and despair. Time, money, and identity fluctuate like bets on a roulette wheel.*</small>
+- *First Love* – Fyodor Dostoevsky ; <small>First love leaves an indelible mark on the soul. Youthful passion is both pure and destructive. Love awakens us to beauty but also to life's cruelty. The intensity of first emotions cannot be recaptured. Early romantic experience shapes all future relationships.</small>
+
 
 ## Physics
 
 - *The Order of Time* – Carlo Rovelli  
 - *Understanding Physics* – Isaac Asimov
 - *What is Life? The Physical Aspect of the Living Cell* – Erwin Schrödinger  
-- *Physics and Philosophy: The Revolution in Modern Science* – Werner Heisenberg
+- *Physics and Philosophy: The Revolution in Modern Science* – Werner Heisenberg 
+- *The Fabric of Reality* – David Deutsch ; <small>*Reality consists of four interconnected strands: quantum physics, evolution, computation, and epistemology. The multiverse is real and parallel universes exist. Knowledge creation through conjecture and criticism drives progress. Virtual reality and quantum computation will transform our understanding of reality. Explanations, not just predictions, are the goal of science.*</small>
